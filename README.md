@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # SortingVisualizer
 =======
 # Sorting_Visualizer
@@ -27,7 +25,3 @@ Features:
 4) Time and Space complexity of algorithm being visualized.
 
  Take a look  at  live version :  https://github.com/ayush2685/1
->>>>>>> Your commit message
-=======
-# SortingVisualizer
->>>>>>> 9a5d8b0c8c460fd02c1c19d65ec7931ba2d35245
