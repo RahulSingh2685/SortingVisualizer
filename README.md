@@ -1,5 +1,3 @@
-# SortingVisualizer
-=======
 # Sorting_Visualizer
 
 A web application showcasing the inner workings of sorting algorithms.
@@ -24,4 +22,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
- Take a look  at  live version :  https://github.com/ayush2685/1
+ Take a look  at  live version :  https://github.com/RahulSingh2685
